@@ -1,4 +1,7 @@
-[
+[ {
+        "name": "Surge",
+        "colors": ["#009BEC", "#9C00DE", "#EC008C"]
+    },
     {
         "name": "Blu",
         "colors": ["#00416A", "#E4E5E6"]
